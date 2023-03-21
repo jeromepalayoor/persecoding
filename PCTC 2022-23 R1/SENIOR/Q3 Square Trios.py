@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = sorted([a,b,c])
+print(d[0])
+print(d[0]*4)
+print(d[0]**2)
