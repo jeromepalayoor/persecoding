@@ -1,0 +1,1 @@
+print("what") #idk they just wanted the word 'what'
