@@ -1,0 +1,1 @@
+print(f'you said "{input()}"?')
