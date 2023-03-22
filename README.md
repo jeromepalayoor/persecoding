@@ -1,4 +1,3 @@
-### Past Challenges &amp; My Solutions
+### Past Challenges from [Perse Coding](https://pctc.cuttle.org/index.php?action=user_competitions) &amp; My Solutions
 
-### From [PTCT](https://pctc.cuttle.org/index.php?action=user_competitions)
 ----
