@@ -1,0 +1,1 @@
+print(int(input())**2-1)  #(a-b)(a+b)=a^2-b^2  where a is input, and b is 1
