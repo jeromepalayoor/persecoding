@@ -1,0 +1,1 @@
+print(int(input()) + 1 if input() != 'h' else 1)
